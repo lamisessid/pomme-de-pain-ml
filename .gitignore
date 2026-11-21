@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# Secrets / config locale
+.env
+.env.*
+!.env.example
+
+# Node / Vite
+node_modules/
+dist/
+*.local
+
+# Données dérivées (régénérées par `make preprocess`)
+preprocessing/data/interim/
+preprocessing/data/processed/
+preprocessing/logs/
+
+# État local de l'API
+backend/var/
+
+# Divers
+*.log
+.DS_Store
+.idea/
+.vscode/

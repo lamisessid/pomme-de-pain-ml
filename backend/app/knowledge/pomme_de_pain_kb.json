@@ -1,0 +1,149 @@
+{
+  "procedures": [
+    {
+      "id": "PROC-001",
+      "title": "Gestion des invendus en fin de journée",
+      "description": "Procédure complète pour gérer les produits non vendus tout en minimisant les pertes",
+      "steps": [
+        "À partir de 16h00, vérifier les produits proches de la date limite",
+        "Appliquer promotion flash -30% sur ces produits",
+        "Préparer des paniers surprises pour l'application Too Good To Go",
+        "Contacter l'association Caritas pour don",
+        "Remplir le formulaire de don alimentaire",
+        "Analyser les causes des invendus pour ajuster les commandes futures"
+      ],
+      "keywords": [
+        "invendu",
+        "gaspillage",
+        "perte",
+        "fin de journée",
+        "promotion",
+        "don",
+        "tgtg"
+      ],
+      "impact": "Réduction des pertes jusqu'à 35%",
+      "urgence_level": "medium",
+      "category": "operations"
+    },
+    {
+      "id": "PROC-002",
+      "title": "Rupture de stock produit",
+      "description": "Procédure d'urgence en cas de rupture de stock d'un produit",
+      "steps": [
+        "Vérifier immédiatement le stock en réserve et en cours de livraison",
+        "Proposer une alternative similaire au client avec explication",
+        "Créer un ticket support #RUPTURE avec photo du rayon vide",
+        "Contacter le fournisseur principal pour commande urgente",
+        "Si urgence, contacter le fournisseur de secours local",
+        "Communiquer à toute l'équipe la situation et les alternatives",
+        "Ajuster les prévisions IA pour éviter la récurrence"
+      ],
+      "keywords": [
+        "rupture",
+        "stock",
+        "épuisé",
+        "manque",
+        "urgence",
+        "fournisseur",
+        "alternative"
+      ],
+      "urgence_level": "high",
+      "category": "urgence"
+    },
+    {
+      "id": "PROC-003",
+      "title": "Préparation événement Rugby Racing 92",
+      "description": "Checklist complète pour les jours de match au stade de SQY",
+      "steps": [
+        "Vérifier le calendrier des matchs (samedis soirs généralement)",
+        "Augmenter les stocks : burgers +80%, bières +120%, frites +60%",
+        "Prévoir staff supplémentaire : +2 personnes minimum",
+        "Mettre en place flux client optimisé (caisse dédiée événement)",
+        "Préparer promotions événement : formule match à 12.90€",
+        "Vérifier équipement : machine à café, friteuse, caisses",
+        "Briefing équipe 1h avant l'événement"
+      ],
+      "keywords": [
+        "rugby",
+        "racing",
+        "match",
+        "événement",
+        "stade",
+        "affluence",
+        "préparation"
+      ],
+      "impact": "Augmentation CA de 200-300%",
+      "urgence_level": "medium",
+      "category": "events"
+    }
+  ],
+  "faq": [
+    {
+      "id": "FAQ-001",
+      "question": "Quels sont les produits sans gluten disponibles ?",
+      "answer": "Produits sans gluten certifiés : Salade César (sans croûtons), Brownie spécial sans gluten, Boissons (café, thé, sodas), Soupe du jour (vérifier affichage). Procédure stricte : nettoyer surface, utiliser ustensiles dédiés, gants neufs. Ticket support allergies : #ALERGENES.",
+      "category": "allergies",
+      "keywords": [
+        "gluten",
+        "allergie",
+        "sans",
+        "produit",
+        "option",
+        "cœur"
+      ]
+    },
+    {
+      "id": "FAQ-002",
+      "question": "Quand passer les commandes pour le lendemain ?",
+      "answer": "Délais de commande : Boulangerie avant 14h pour livraison 5h-7h. Produits frais avant 15h pour livraison 6h-8h. Boissons avant 16h pour livraison J+2. Urgence : contacter fournisseur direct. Utiliser module commandes dashboard IA pour optimisation.",
+      "category": "operations",
+      "keywords": [
+        "commande",
+        "délai",
+        "fournisseur",
+        "livraison",
+        "demain",
+        "urgence"
+      ]
+    },
+    {
+      "id": "FAQ-003",
+      "question": "Comment optimiser les stocks pour le week-end ?",
+      "answer": "Recommandations week-end : augmenter viennoiseries +40% samedi, +60% dimanche. Dimanche : prévoir moins de sandwichs (-20%), plus de salades (+30%). Utiliser prévisions IA dashboard qui intègre historique week-end + événements locaux.",
+      "category": "stock",
+      "keywords": [
+        "week-end",
+        "stock",
+        "optimisation",
+        "samedi",
+        "dimanche",
+        "prévision"
+      ]
+    }
+  ],
+  "sqy_specific": [
+    {
+      "id": "SQY-001",
+      "title": "Caractéristiques clientèle SQY",
+      "description": "Informations spécifiques à la clientèle de Saint-Quentin-en-Yvelines",
+      "details": {
+        "double_clientèle": {
+          "bureau": "40% du CA, pics 12h-13h30, commandes groupées",
+          "événementielle": "30% du CA, imprévisible, gros volumes",
+          "universitaire": "20% du CA (UVSQ), budget limité, café important",
+          "commerciale": "10% du CA, weekends et soirées"
+        },
+        "microclimat": "Vents forts l'après-midi, températures -2°C vs Paris centre",
+        "transports": "RER C fréquentes perturbations, impact 7h-9h et 17h-19h"
+      },
+      "keywords": [
+        "sqy",
+        "saint-quentin",
+        "yvelines",
+        "uvsq",
+        "clientèle",
+        "spécifique"
+      ]
+    }
+  ]
+}

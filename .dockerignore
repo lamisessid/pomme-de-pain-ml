@@ -1,0 +1,8 @@
+**/node_modules
+**/__pycache__
+**/.venv
+**/.env
+backend/var
+frontend/dist
+preprocessing/data/interim
+preprocessing/data/processed

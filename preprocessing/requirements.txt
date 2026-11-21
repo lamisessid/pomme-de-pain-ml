@@ -1,0 +1,8 @@
+pandas==2.2.3
+numpy==1.26.4
+pyarrow==17.0.0
+tqdm==4.66.5
+
+# scripts/generate_report_plots.py et explore_data.py
+matplotlib==3.9.2
+seaborn==0.13.2

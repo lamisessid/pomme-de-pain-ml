@@ -1,0 +1,141 @@
+======================================================================
+RAPPORT DE DONNÉES - POMME DE PAIN SQY
+======================================================================
+
+1. INFORMATIONS GÉNÉRALES
+----------------------------------------
+
+Période: 2022-01-01 au 2023-12-31
+Nombre total de jours: 730
+Nombre de produits: 50
+Nombre d'enregistrements: 36,500
+
+2. STATISTIQUES GLOBALES
+----------------------------------------
+
+Ventes totales: 1,491,378 unités
+Pertes totales: 120,688 unités
+Taux de perte global: 8.1%
+Chiffre d'affaires total: 5,876,337 €
+Coût total des pertes: 141,540 €
+
+3. ANALYSE PAR CATÉGORIE
+----------------------------------------
+
+BOISSON:
+  • Ventes: 493,884 unités
+  • Pertes: 3,275 unités
+  • Taux de perte: 0.7%
+  • CA généré: 1,802,648 €
+
+CHAUD:
+  • Ventes: 35,698 unités
+  • Pertes: 2,536 unités
+  • Taux de perte: 7.1%
+  • CA généré: 196,821 €
+
+DESSERT:
+  • Ventes: 231,981 unités
+  • Pertes: 27,814 unités
+  • Taux de perte: 12.0%
+  • CA généré: 869,783 €
+
+DIVERS:
+  • Ventes: 3,176 unités
+  • Pertes: 0 unités
+  • Taux de perte: 0.0%
+  • CA généré: 7,152 €
+
+MENU:
+  • Ventes: 34,317 unités
+  • Pertes: 1,198 unités
+  • Taux de perte: 3.5%
+  • CA généré: 335,893 €
+
+PAIN:
+  • Ventes: 38,550 unités
+  • Pertes: 8,627 unités
+  • Taux de perte: 22.4%
+  • CA généré: 55,711 €
+
+SALE:
+  • Ventes: 64,183 unités
+  • Pertes: 7,902 unités
+  • Taux de perte: 12.3%
+  • CA généré: 376,834 €
+
+SANDWICH:
+  • Ventes: 251,291 unités
+  • Pertes: 23,800 unités
+  • Taux de perte: 9.5%
+  • CA généré: 1,528,438 €
+
+SPECIAL:
+  • Ventes: 8,558 unités
+  • Pertes: 993 unités
+  • Taux de perte: 11.6%
+  • CA généré: 51,198 €
+
+VIENNOISERIE:
+  • Ventes: 329,740 unités
+  • Pertes: 44,543 unités
+  • Taux de perte: 13.5%
+  • CA généré: 651,859 €
+
+4. TOP 10 PRODUITS
+----------------------------------------
+
+ 1. cappuccino_m                       79,156 unités
+ 2. expresso                           71,031 unités
+ 3. smoothie_fraise                    68,314 unités
+ 4. biere_33cl                         63,365 unités
+ 5. cafe_glace                         63,229 unités
+ 6. the_glace                          61,865 unités
+ 7. pain_chocolat                      61,264 unités
+ 8. croissant                          54,984 unités
+ 9. tartine_nutella                    54,541 unités
+10. orange_presse_l                    49,389 unités
+
+5. ANALYSE TEMPORELLE
+----------------------------------------
+
+Ventes moyennes par jour:
+  • Lundi: 37 unités
+  • Mardi: 40 unités
+  • Mercredi: 36 unités
+  • Jeudi: 42 unités
+  • Vendredi: 45 unités
+  • Samedi: 56 unités
+  • Dimanche: 31 unités
+
+Meilleur mois: Décembre (56 unités/jour)
+Pire mois: Août (31 unités/jour)
+
+6. QUALITÉ DES DONNÉES
+----------------------------------------
+
+Valeurs manquantes: 33650
+Lignes dupliquées: 0
+Plage de dates: 2022-01-01 au 2023-12-31
+Nombre de produits uniques: 50
+
+7. RECOMMANDATIONS POUR LE MACHINE LEARNING
+----------------------------------------
+
+✅ Les données sont prêtes pour l'entraînement:
+   • Données complètes (aucune valeur manquante)
+   • Pas de valeurs aberrantes négatives
+   • Variables contextuelles riches (météo, événements, jour semaine)
+   • Saisonnalité clairement identifiable
+   • Impact des événements mesurable
+
+🎯 Suggestions de features pour les modèles:
+   • Variables temporelles: jour_semaine, mois, est_weekend, est_ferie
+   • Variables météo: temperature, pluie_mm
+   • Variables événements: a_evenement, types_evenements
+   • Historique: ventes des 7 derniers jours
+   • Produit: categorie, sous_categorie, popularite
+
+======================================================================
+FIN DU RAPPORT
+======================================================================

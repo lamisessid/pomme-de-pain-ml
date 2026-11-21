@@ -1,0 +1,415 @@
+[
+  {
+    "date":1641772800000,
+    "nom_evenement":"Session Janvier UVSQ",
+    "type_evenement":"examens",
+    "impact_ventes":0.7,
+    "description":"Événement examens à SQY"
+  },
+  {
+    "date":1642032000000,
+    "nom_evenement":"Grève RER C",
+    "type_evenement":"greve",
+    "impact_ventes":1.3,
+    "description":"Événement greve à SQY"
+  },
+  {
+    "date":1642204800000,
+    "nom_evenement":"Session Janvier UVSQ",
+    "type_evenement":"examens",
+    "impact_ventes":0.7,
+    "description":"Événement examens à SQY"
+  },
+  {
+    "date":1644883200000,
+    "nom_evenement":"Forum Emploi Paris-Saclay",
+    "type_evenement":"salon",
+    "impact_ventes":1.6,
+    "description":"Événement salon à SQY"
+  },
+  {
+    "date":1645228800000,
+    "nom_evenement":"Vacances Hiver Zone C",
+    "type_evenement":"vacances",
+    "impact_ventes":1.2,
+    "description":"Événement vacances à SQY"
+  },
+  {
+    "date":1647907200000,
+    "nom_evenement":"Grève RER C",
+    "type_evenement":"greve",
+    "impact_ventes":1.4,
+    "description":"Événement greve à SQY"
+  },
+  {
+    "date":1650067200000,
+    "nom_evenement":"Vacances Printemps Zone C",
+    "type_evenement":"vacances",
+    "impact_ventes":1.3,
+    "description":"Événement vacances à SQY"
+  },
+  {
+    "date":1653004800000,
+    "nom_evenement":"Salon Innovation",
+    "type_evenement":"salon",
+    "impact_ventes":1.5,
+    "description":"Événement salon à SQY"
+  },
+  {
+    "date":1654387200000,
+    "nom_evenement":"Session Juin UVSQ",
+    "type_evenement":"examens",
+    "impact_ventes":0.6,
+    "description":"Événement examens à SQY"
+  },
+  {
+    "date":1654732800000,
+    "nom_evenement":"Mouvement Social RER",
+    "type_evenement":"greve",
+    "impact_ventes":1.2,
+    "description":"Événement greve à SQY"
+  },
+  {
+    "date":1654992000000,
+    "nom_evenement":"Session Juin UVSQ",
+    "type_evenement":"examens",
+    "impact_ventes":0.6,
+    "description":"Événement examens à SQY"
+  },
+  {
+    "date":1655510400000,
+    "nom_evenement":"Festival Solidays",
+    "type_evenement":"concert",
+    "impact_ventes":1.8,
+    "description":"Événement concert à SQY"
+  },
+  {
+    "date":1657152000000,
+    "nom_evenement":"Vacances Été",
+    "type_evenement":"vacances",
+    "impact_ventes":1.1,
+    "description":"Événement vacances à SQY"
+  },
+  {
+    "date":1657324800000,
+    "nom_evenement":"SQY Summer Festival",
+    "type_evenement":"festival",
+    "impact_ventes":1.9,
+    "description":"Événement festival à SQY"
+  },
+  {
+    "date":1661558400000,
+    "nom_evenement":"Racing 92 vs Toulouse",
+    "type_evenement":"rugby",
+    "impact_ventes":2.5,
+    "description":"Événement rugby à SQY"
+  },
+  {
+    "date":1662768000000,
+    "nom_evenement":"Racing 92 vs Clermont",
+    "type_evenement":"rugby",
+    "impact_ventes":2.3,
+    "description":"Événement rugby à SQY"
+  },
+  {
+    "date":1662854400000,
+    "nom_evenement":"PSG Féminin vs Lyon",
+    "type_evenement":"football",
+    "impact_ventes":2.0,
+    "description":"Événement football à SQY"
+  },
+  {
+    "date":1664409600000,
+    "nom_evenement":"Grève RER C",
+    "type_evenement":"greve",
+    "impact_ventes":1.5,
+    "description":"Événement greve à SQY"
+  },
+  {
+    "date":1664496000000,
+    "nom_evenement":"Concert Jazz à SQY",
+    "type_evenement":"concert",
+    "impact_ventes":1.5,
+    "description":"Événement concert à SQY"
+  },
+  {
+    "date":1665532800000,
+    "nom_evenement":"Forum Entreprises UVSQ",
+    "type_evenement":"salon",
+    "impact_ventes":1.7,
+    "description":"Événement salon à SQY"
+  },
+  {
+    "date":1665792000000,
+    "nom_evenement":"Racing 92 vs La Rochelle",
+    "type_evenement":"rugby",
+    "impact_ventes":2.6,
+    "description":"Événement rugby à SQY"
+  },
+  {
+    "date":1666396800000,
+    "nom_evenement":"Vacances Toussaint",
+    "type_evenement":"vacances",
+    "impact_ventes":1.2,
+    "description":"Événement vacances à SQY"
+  },
+  {
+    "date":1666483200000,
+    "nom_evenement":"PSG Féminin vs Paris FC",
+    "type_evenement":"football",
+    "impact_ventes":1.8,
+    "description":"Événement football à SQY"
+  },
+  {
+    "date":1668816000000,
+    "nom_evenement":"Racing 92 vs Bordeaux",
+    "type_evenement":"rugby",
+    "impact_ventes":2.4,
+    "description":"Événement rugby à SQY"
+  },
+  {
+    "date":1670630400000,
+    "nom_evenement":"Marché de Noël SQY",
+    "type_evenement":"marche",
+    "impact_ventes":1.8,
+    "description":"Événement marche à SQY"
+  },
+  {
+    "date":1671235200000,
+    "nom_evenement":"Vacances Noël",
+    "type_evenement":"vacances",
+    "impact_ventes":1.4,
+    "description":"Événement vacances à SQY"
+  },
+  {
+    "date":1671235200000,
+    "nom_evenement":"Marché de Noël SQY",
+    "type_evenement":"marche",
+    "impact_ventes":1.9,
+    "description":"Événement marche à SQY"
+  },
+  {
+    "date":1671753600000,
+    "nom_evenement":"Marché de Noël SQY",
+    "type_evenement":"marche",
+    "impact_ventes":2.0,
+    "description":"Événement marche à SQY"
+  },
+  {
+    "date":1673222400000,
+    "nom_evenement":"Session Janvier UVSQ",
+    "type_evenement":"examens",
+    "impact_ventes":0.7,
+    "description":"Événement examens à SQY"
+  },
+  {
+    "date":1673654400000,
+    "nom_evenement":"Racing 92 vs Montpellier",
+    "type_evenement":"rugby",
+    "impact_ventes":2.2,
+    "description":"Événement rugby à SQY"
+  },
+  {
+    "date":1673654400000,
+    "nom_evenement":"Session Janvier UVSQ",
+    "type_evenement":"examens",
+    "impact_ventes":0.7,
+    "description":"Événement examens à SQY"
+  },
+  {
+    "date":1674086400000,
+    "nom_evenement":"Grève RER C",
+    "type_evenement":"greve",
+    "impact_ventes":1.3,
+    "description":"Événement greve à SQY"
+  },
+  {
+    "date":1674172800000,
+    "nom_evenement":"Spectacle Humour",
+    "type_evenement":"spectacle",
+    "impact_ventes":1.4,
+    "description":"Événement spectacle à SQY"
+  },
+  {
+    "date":1676073600000,
+    "nom_evenement":"Vacances Hiver Zone C",
+    "type_evenement":"vacances",
+    "impact_ventes":1.2,
+    "description":"Événement vacances à SQY"
+  },
+  {
+    "date":1676160000000,
+    "nom_evenement":"PSG Féminin vs Bordeaux",
+    "type_evenement":"football",
+    "impact_ventes":1.7,
+    "description":"Événement football à SQY"
+  },
+  {
+    "date":1676332800000,
+    "nom_evenement":"Forum Emploi Paris-Saclay",
+    "type_evenement":"salon",
+    "impact_ventes":1.6,
+    "description":"Événement salon à SQY"
+  },
+  {
+    "date":1677283200000,
+    "nom_evenement":"Racing 92 vs Lyon",
+    "type_evenement":"rugby",
+    "impact_ventes":2.3,
+    "description":"Événement rugby à SQY"
+  },
+  {
+    "date":1678406400000,
+    "nom_evenement":"Festival du Court Métrage",
+    "type_evenement":"festival",
+    "impact_ventes":1.6,
+    "description":"Événement festival à SQY"
+  },
+  {
+    "date":1678492800000,
+    "nom_evenement":"Marché Printanier",
+    "type_evenement":"marche",
+    "impact_ventes":1.5,
+    "description":"Événement marche à SQY"
+  },
+  {
+    "date":1678752000000,
+    "nom_evenement":"Grève Transports",
+    "type_evenement":"greve",
+    "impact_ventes":1.4,
+    "description":"Événement greve à SQY"
+  },
+  {
+    "date":1679097600000,
+    "nom_evenement":"Racing 92 vs Stade Français",
+    "type_evenement":"rugby",
+    "impact_ventes":2.7,
+    "description":"Événement rugby à SQY"
+  },
+  {
+    "date":1679788800000,
+    "nom_evenement":"PSG Féminin vs Montpellier",
+    "type_evenement":"football",
+    "impact_ventes":1.9,
+    "description":"Événement football à SQY"
+  },
+  {
+    "date":1681516800000,
+    "nom_evenement":"Vacances Printemps Zone C",
+    "type_evenement":"vacances",
+    "impact_ventes":1.3,
+    "description":"Événement vacances à SQY"
+  },
+  {
+    "date":1682121600000,
+    "nom_evenement":"Racing 92 vs Toulon",
+    "type_evenement":"rugby",
+    "impact_ventes":2.5,
+    "description":"Événement rugby à SQY"
+  },
+  {
+    "date":1683936000000,
+    "nom_evenement":"Racing 92 vs Castres",
+    "type_evenement":"rugby",
+    "impact_ventes":2.4,
+    "description":"Événement rugby à SQY"
+  },
+  {
+    "date":1684454400000,
+    "nom_evenement":"Salon Innovation",
+    "type_evenement":"salon",
+    "impact_ventes":1.5,
+    "description":"Événement salon à SQY"
+  },
+  {
+    "date":1685836800000,
+    "nom_evenement":"Session Juin UVSQ",
+    "type_evenement":"examens",
+    "impact_ventes":0.6,
+    "description":"Événement examens à SQY"
+  },
+  {
+    "date":1686355200000,
+    "nom_evenement":"Marché Artisanal",
+    "type_evenement":"marche",
+    "impact_ventes":1.6,
+    "description":"Événement marche à SQY"
+  },
+  {
+    "date":1686441600000,
+    "nom_evenement":"Session Juin UVSQ",
+    "type_evenement":"examens",
+    "impact_ventes":0.6,
+    "description":"Événement examens à SQY"
+  },
+  {
+    "date":1687564800000,
+    "nom_evenement":"Fête de la Musique SQY",
+    "type_evenement":"festival",
+    "impact_ventes":1.7,
+    "description":"Événement festival à SQY"
+  },
+  {
+    "date":1688774400000,
+    "nom_evenement":"Vacances Été",
+    "type_evenement":"vacances",
+    "impact_ventes":1.1,
+    "description":"Événement vacances à SQY"
+  },
+  {
+    "date":1694822400000,
+    "nom_evenement":"Concert Rock",
+    "type_evenement":"concert",
+    "impact_ventes":1.8,
+    "description":"Événement concert à SQY"
+  },
+  {
+    "date":1696464000000,
+    "nom_evenement":"Grève RER C",
+    "type_evenement":"greve",
+    "impact_ventes":1.3,
+    "description":"Événement greve à SQY"
+  },
+  {
+    "date":1696982400000,
+    "nom_evenement":"Forum Entreprises UVSQ",
+    "type_evenement":"salon",
+    "impact_ventes":1.7,
+    "description":"Événement salon à SQY"
+  },
+  {
+    "date":1697846400000,
+    "nom_evenement":"Vacances Toussaint",
+    "type_evenement":"vacances",
+    "impact_ventes":1.2,
+    "description":"Événement vacances à SQY"
+  },
+  {
+    "date":1702080000000,
+    "nom_evenement":"Marché de Noël SQY",
+    "type_evenement":"marche",
+    "impact_ventes":1.8,
+    "description":"Événement marche à SQY"
+  },
+  {
+    "date":1702684800000,
+    "nom_evenement":"Marché de Noël SQY",
+    "type_evenement":"marche",
+    "impact_ventes":1.9,
+    "description":"Événement marche à SQY"
+  },
+  {
+    "date":1703203200000,
+    "nom_evenement":"Marché de Noël SQY",
+    "type_evenement":"marche",
+    "impact_ventes":2.0,
+    "description":"Événement marche à SQY"
+  },
+  {
+    "date":1703289600000,
+    "nom_evenement":"Vacances Noël",
+    "type_evenement":"vacances",
+    "impact_ventes":1.4,
+    "description":"Événement vacances à SQY"
+  }
+]

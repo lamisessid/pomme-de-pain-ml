@@ -1,0 +1,26 @@
+# Ports hôtes volontairement peu courants pour ne pas entrer en conflit avec d'autres projets.
+# Ils se changent via API_PORT / WEB_PORT (ex. : API_PORT=9000 docker compose up).
+services:
+  api:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    environment:
+      CORS_ORIGINS: http://localhost:${WEB_PORT:-5190}
+    ports:
+      - "${API_PORT:-8642}:8642"
+    volumes:
+      - api-data:/app/backend/var
+
+  web:
+    build:
+      context: frontend
+      args:
+        VITE_API_URL: http://localhost:${API_PORT:-8642}
+    ports:
+      - "${WEB_PORT:-5190}:80"
+    depends_on:
+      - api
+
+volumes:
+  api-data:
